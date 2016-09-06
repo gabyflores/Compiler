@@ -1,0 +1,43 @@
+
+
+void main(){
+
+int f,g,d,a,x;
+string h;
+
+printf("----------Operaciones---------------");
+
+d=2*3;
+printf("La multiplicacion 2*3:",d);
+
+f=6/2;
+printf("La division de 6/2 es:",f);
+
+
+printf("--------Lee Datos-------------------");
+
+
+printf("Ingrese un numero:");
+scanf(g);
+
+printf("Numero ingresado:",g);
+
+
+printf("Ingrese una letra:");
+scanf(h);
+
+printf("Letra Ingresada:",h);
+
+printf("----Operaciones Dos-----");
+
+a=4-2;
+
+printf("La resta es:",a);
+
+x=2+2;
+printf("La suma es:",x);
+
+
+
+
+}$

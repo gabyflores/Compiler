@@ -1,0 +1,68 @@
+NOMBRE: Flores Valverde Gabriela Guadalupe
+CÓDIGO: 209553304
+Taller de Compiladores Sección: D06
+25/mayo/2016
+
+1.-Archivo de ejemplo a utilizar:
+
+--El archivo con el ejemplo a analizar lleva el 
+nombre de Pruebas.txt este archivo al final debe
+levar el simbolo de "$" para indicar que es el 
+final de la cadena o texto.
+
+2.-Para ejecutar el programa en Linux desde terminal:
+--Solo ejecutamos el comando make y depues ./main.
+ 
+Si no hay errores semanticos se generara un archivo
+de nombre program.asm, el cual sera directamente
+ejecutado una vez ejecutado el ./main y siempre y 
+cuando no existan errores sintácticos ni semánticos.
+
+3.-La computadora deberá tener instalado NASM de 32 bits:
+
+--El punto anterior es solo en caso de que se quiera 
+observar la ejecución de la generación de código objeto,
+los comandos para llevar a cabo este enlaze ya están
+dentro del main del proyecto, por lo que si no hubo 
+errores sintácticos o semánticos, se debe generar un archivo
+denominado program.asm.
+
+NOTA: Si se desea probar en windows se puede usar cualquier
+compilador de c++, pero la parte de ensamblador muy 
+probablemente no se ejecutará ya que esta definida en NASM 
+el cual se instalá en Linux.
+
+4.-En caso de existir errores sintácticos o semánticos:
+
+--Deberán hacerse los cambios correspondientes en el 
+archivo de nombre Pruebas.txt y guardar los cambios
+asegurándose de que no existan más errores.
+
+5.- El proyecto genera código objecto de operaciones 
+aritméticas básicas como suma, resta, multiplicación
+y división, ademas de tener funciones como printf y scanf.
+
+6.printf(parámetro1,parámetro2) o printf(parámetro1);
+
+--Esta función puede llevar uno o dos parámetros
+en caso de llevar un solo parámetro es debera ser una cadena,
+Ejemplo:
+
+printf("Hola Buenas Tardes");
+
+--En caso de llevar dos, debera ser una cadena seguida de una 
+variable:
+
+printf("Suma de 3+1:",sum);
+
+
+7.scanf(parametro1);
+
+--Este solo lleva un parámetro y puede ser de cualquier tipo.
+Ejemplo:
+
+scanf(h);
+
+8.NOTA: Siempre que se cálcule algán valor si se desea saber el 
+valor de este se debera invocar un printf("Valor:",valor);  despues de
+haberlo calculado.

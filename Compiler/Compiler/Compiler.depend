@@ -1,0 +1,220 @@
+# depslib dependency file v1.0
+1461733751 source:c:\users\marlo\dropbox\programming\c\compiler\lexico.cpp
+	<cstdlib>
+	<iostream>
+	<string.h>
+	<string>
+	<ctype.h>
+	"lexico.h"
+
+1461733306 c:\users\marlo\dropbox\programming\c\compiler\lexico.h
+	<iostream>
+	<string>
+
+1461733910 source:c:\users\marlo\dropbox\programming\c\compiler\main.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+	<ctype.h>
+	<string.h>
+	<fstream>
+	<sstream>
+	"lexico.h"
+	"Nodo.h"
+
+1461733773 c:\users\marlo\dropbox\programming\c\compiler\elementopila.h
+	<iostream>
+	<string>
+
+1461733799 c:\users\marlo\dropbox\programming\c\compiler\pila.h
+	<list>
+	<iostream>
+	<string>
+	"elementopila.h"
+
+1461733081 source:c:\users\marlo\dropbox\programming\c\compiler\nodo.cpp
+	"Nodo.h"
+
+1461732933 c:\users\marlo\dropbox\programming\c\compiler\nodo.h
+	<iostream>
+	"pila.h"
+
+1461733856 source:c:\users\marlo\dropbox\programming\c\compiler\pila.cpp
+	"pila.h"
+	<sstream>
+
+1461733751 source:c:\users\gabyf\downloads\compiler\compiler\lexico.cpp
+	<cstdlib>
+	<iostream>
+	<string.h>
+	<string>
+	<ctype.h>
+	"lexico.h"
+
+1461733306 c:\users\gabyf\downloads\compiler\compiler\lexico.h
+	<iostream>
+	<string>
+
+1461758025 source:c:\users\gabyf\downloads\compiler\compiler\main.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+	<ctype.h>
+	<string.h>
+	<fstream>
+	<sstream>
+	"lexico.h"
+	"Nodo.h"
+	"Semantico.h"
+	"TablaSimbolos.h"
+
+1461732933 c:\users\gabyf\downloads\compiler\compiler\nodo.h
+	<iostream>
+	"pila.h"
+
+1461733799 c:\users\gabyf\downloads\compiler\compiler\pila.h
+	<list>
+	<iostream>
+	<string>
+	"elementopila.h"
+
+1461733773 c:\users\gabyf\downloads\compiler\compiler\elementopila.h
+	<iostream>
+	<string>
+
+1461733081 source:c:\users\gabyf\downloads\compiler\compiler\nodo.cpp
+	"Nodo.h"
+
+1461733856 source:c:\users\gabyf\downloads\compiler\compiler\pila.cpp
+	"pila.h"
+	<sstream>
+
+1461757554 source:c:\users\gabyf\downloads\compiler\compiler\semantico.cpp
+	"Semantico.h"
+
+1461757554 c:\users\gabyf\downloads\compiler\compiler\semantico.h
+	"Nodo.h"
+
+1461758014 c:\users\gabyf\downloads\compiler\compiler\tablasimbolos.h
+	"Nodo.h"
+
+1461758014 source:c:\users\gabyf\downloads\compiler\compiler\tablasimbolos.cpp
+	"TablaSimbolos.h"
+
+1462655575 source:c:\users\gabyf\onedrive\documentos\8semestre\taller de compiladores\semanticos2\compiler\lexico.cpp
+	<cstdlib>
+	<iostream>
+	<string.h>
+	<string>
+	<ctype.h>
+	"lexico.h"
+
+1461733306 c:\users\gabyf\onedrive\documentos\8semestre\taller de compiladores\semanticos2\compiler\lexico.h
+	<iostream>
+	<string>
+
+1462335190 source:c:\users\gabyf\onedrive\documentos\8semestre\taller de compiladores\semanticos2\compiler\main.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+	<ctype.h>
+	<string.h>
+	<fstream>
+	<sstream>
+	"lexico.h"
+	"Nodo.h"
+	"Semantico.h"
+
+1462665763 c:\users\gabyf\onedrive\documentos\8semestre\taller de compiladores\semanticos2\compiler\nodo.h
+	<iostream>
+	"pila.h"
+	"TablaSimbolos.h"
+
+1461733799 c:\users\gabyf\onedrive\documentos\8semestre\taller de compiladores\semanticos2\compiler\pila.h
+	<list>
+	<iostream>
+	<string>
+	"elementopila.h"
+
+1461733773 c:\users\gabyf\onedrive\documentos\8semestre\taller de compiladores\semanticos2\compiler\elementopila.h
+	<iostream>
+	<string>
+
+1462140607 c:\users\gabyf\onedrive\documentos\8semestre\taller de compiladores\semanticos2\compiler\semantico.h
+	"TablaSimbolos.h"
+
+1462228428 c:\users\gabyf\onedrive\documentos\8semestre\taller de compiladores\semanticos2\compiler\tablasimbolos.h
+	"Nodo.h"
+
+1462754427 source:c:\users\gabyf\onedrive\documentos\8semestre\taller de compiladores\semanticos2\compiler\nodo.cpp
+	"Nodo.h"
+
+1461733856 source:c:\users\gabyf\onedrive\documentos\8semestre\taller de compiladores\semanticos2\compiler\pila.cpp
+	"pila.h"
+	<sstream>
+
+1462140621 source:c:\users\gabyf\onedrive\documentos\8semestre\taller de compiladores\semanticos2\compiler\semantico.cpp
+	"Semantico.h"
+
+1462228428 source:c:\users\gabyf\onedrive\documentos\8semestre\taller de compiladores\semanticos2\compiler\tablasimbolos.cpp
+	"TablaSimbolos.h"
+
+1462655576 source:c:\users\marlo\dropbox\programming\compiler\compiler\lexico.cpp
+	<cstdlib>
+	<iostream>
+	<string.h>
+	<string>
+	<ctype.h>
+	"lexico.h"
+
+1461733306 c:\users\marlo\dropbox\programming\compiler\compiler\lexico.h
+	<iostream>
+	<string>
+
+1461733856 source:c:\users\marlo\dropbox\programming\compiler\compiler\pila.cpp
+	"pila.h"
+	<sstream>
+
+1461733800 c:\users\marlo\dropbox\programming\compiler\compiler\pila.h
+	<list>
+	<iostream>
+	<string>
+	"elementopila.h"
+
+1463024292 c:\users\marlo\dropbox\programming\compiler\compiler\elementopila.h
+	<iostream>
+	<string>
+
+1462228428 source:c:\users\marlo\dropbox\programming\compiler\compiler\tablasimbolos.cpp
+	"TablaSimbolos.h"
+
+1463023242 c:\users\marlo\dropbox\programming\compiler\compiler\tablasimbolos.h
+	"nodo.h"
+
+1463779696 c:\users\marlo\dropbox\programming\compiler\compiler\nodo.h
+	<iostream>
+	<fstream>
+	"pila.h"
+	"TablaSimbolos.h"
+
+1463778450 source:c:\users\marlo\dropbox\programming\compiler\compiler\main.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+	<ctype.h>
+	<string.h>
+	<fstream>
+	<sstream>
+	"lexico.h"
+	"nodo.h"
+	"Semantico.h"
+
+1463704180 c:\users\marlo\dropbox\programming\compiler\compiler\semantico.h
+	"TablaSimbolos.h"
+
+1463777127 source:c:\users\marlo\dropbox\programming\compiler\compiler\nodo.cpp
+	"nodo.h"
+
+1463704174 source:c:\users\marlo\dropbox\programming\compiler\compiler\semantico.cpp
+	"Semantico.h"
+
